@@ -1,2 +1,2 @@
 # NoInterfaceSegregation
- No Interface Segregation Principle
+ No Interface Segregation Principle Example
